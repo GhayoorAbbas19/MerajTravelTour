@@ -38,7 +38,7 @@ const I18N = {
     'why.2t': 'Fast replies', 'why.2p': 'Message us on WhatsApp and get a quote within minutes, seven days a week.',
     'why.3t': 'Documents done right', 'why.3p': 'Visa forms, insurance and certificates checked by us before submission, for a higher success rate.',
     'why.4t': 'Your language', 'why.4p': 'We speak Italian, English, Urdu and Punjabi, so nothing gets lost in translation.',
-    'why.5t': 'Local office', 'why.5p': 'Visit us at Corso della Libertà 45 in Cesano Maderno, a few minutes from Milan.',
+    
     'why.6t': 'Personal service', 'why.6p': 'You deal with a real person who knows your name, not a call centre.',
     'contact.eyebrow': 'Contact us', 'contact.h2': 'Book now, it only takes a message',
     'contact.lead': 'WhatsApp is the fastest way to reach us. Send your route, dates and number of passengers and we reply with a quote.',
@@ -89,7 +89,7 @@ const I18N = {
     'why.2t': 'Risposte rapide', 'why.2p': 'Scrivici su WhatsApp e ricevi un preventivo in pochi minuti, sette giorni su sette.',
     'why.3t': 'Documenti fatti bene', 'why.3p': 'Moduli visto, assicurazioni e certificati controllati da noi prima dell\'invio, per più probabilità di successo.',
     'why.4t': 'La tua lingua', 'why.4p': 'Parliamo italiano, inglese, urdu e punjabi, così nulla si perde nella traduzione.',
-    'why.5t': 'Ufficio in zona', 'why.5p': 'Vieni a trovarci in Corso della Libertà 45 a Cesano Maderno, a pochi minuti da Milano.',
+    
     'why.6t': 'Servizio personale', 'why.6p': 'Parli con una persona vera che conosce il tuo nome, non con un call center.',
     'contact.eyebrow': 'Contattaci', 'contact.h2': 'Prenota ora, basta un messaggio',
     'contact.lead': 'WhatsApp è il modo più veloce per raggiungerci. Inviaci tratta, date e numero di passeggeri e ti rispondiamo con un preventivo.',
